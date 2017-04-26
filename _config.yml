@@ -28,7 +28,7 @@ github_username:  GuavaKhan
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-cayman-theme
 gems:
   - jekyll-feed
 exclude:
